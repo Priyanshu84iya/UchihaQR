@@ -9,6 +9,7 @@ const AUTHORIZED_HOSTS = [
   'localhost',
   '127.0.0.1',
   'uchiha-qr.vercel.app',
+  'priyanshu84iya.github.io/UchihaQR',
   // Add your production domains here
 ];
 
