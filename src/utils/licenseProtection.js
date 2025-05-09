@@ -8,6 +8,7 @@
 const AUTHORIZED_HOSTS = [
   'localhost',
   '127.0.0.1',
+  'https://uchiha-qr.vercel.app/',
   // Add your production domains here
 ];
 
