@@ -20,7 +20,7 @@ Pry-QR is a feature-rich QR code generator web application that allows users to 
 
 1. Enter the URL you want to convert to a QR code
 2. Customize the appearance (colors, images, etc.)
-3. Download or share your QR code
+3. Download or share QR code
 
 
 ## 🛠️ Technologies Used
